@@ -1,5 +1,10 @@
 # 🎓 Student Marks Prediction System
 
+## 🌐 Live Demo
+
+**Try the App:**
+https://studentmarksprediction-mis9mu9vrxjevn8yabtvex.streamlit.app/
+
 This is a Machine Learning web application built using **Streamlit** that predicts a student's final exam marks based on their daily study hours.
 
 ## 🚀 Project Overview
