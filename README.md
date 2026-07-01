@@ -25,5 +25,5 @@ Many students face anxiety and stress after exams while waiting for results. Thi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/palakparmar8085/STUDENT_MARKS_PREDICTION.git](https://github.com/palakparmar8085/STUDENT_MARKS_PREDICTION.git)
+   git clone [https://lnkd.in/diWWT4NV]
    cd STUDENT_MARKS_PREDICTION
